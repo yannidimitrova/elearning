@@ -1,0 +1,1 @@
+2021/04/16 17:19:16 [error] 914#914: *1 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: www.elearningproject.com, request: "GET /accounts/login/ HTTP/1.1", upstream: "uwsgi://unix:///tmp/elearning.sock:", host: "elearningproject.com"
