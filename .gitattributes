@@ -1,1 +1,2 @@
-*.CSS linguist-detectable=false
+* linguist-vendored
+*.CSS linguist-vendored=false
